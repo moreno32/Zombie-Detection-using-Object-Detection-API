@@ -4,7 +4,6 @@
 This project aims to develop a real-time zombie detection system using the Object Detection API and RetinaNet, a state-of-the-art object detection model. The model will be trained using a small dataset of just 5 zombie images, and fine-tuned to improve its performance. The system will be able to detect zombies in images and videos and will provide visual output of the detected zombies.
 
 ![Category and Subcategory](https://img.shields.io/badge/CV%20Computer%20Vision-Clasification%20&%20Detection-blue)
-
 ![Category and Subcategory](https://img.shields.io/badge/Neuronal%20Networks-DCN%20Deep%20Convulutional%20Network-yellow)
 
 ## 🎊 Motivation:
@@ -38,7 +37,7 @@ The project will consist of the following stages.
 The Object Detection API and RetinaNet model were developed by the TensorFlow team. The project structure and implementation is inspired by the TensorFlow Object Detection API tutorial.
 
 ## 🔗 Links:
-[Insert link to project or code repository here, if available].
+Github repository - https://github.com/moreno32/Zombie-Detection-using-Object-Detection-API
 TensorFlow Object Detection API - https://github.com/tensorflow/models/tree/main/research/object_detection
 RetinaNet - https://github.com/fizyr/keras-retinanet
 
