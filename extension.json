@@ -1,0 +1,18 @@
+{
+    "builtin": "False",
+    "default_enabled": "True",
+    "type": "extension",
+    "rocket_mode_compatible": "True",
+    "name": "Real-time Zombie Detection using RetinaNet and TensorFlow Object Detection API",
+    "description": "This project aims to develop a real-time zombie detection system using the RetinaNet object detection model and the TensorFlow Object Detection API. The model will be trained on a small dataset of only 5 zombie images, and fine-tuned on pretrained weights to improve its performance.",
+    "author": "Daniel Moreno",
+    "author_profile": "www.linkedin.com/in/dmoreno-ai",
+    "url": "https://github.com/moreno32/Real-time-Zombie-Detection-using-RetinaNet-and-TensorFlow-Object-Detection-API",
+    "website": "https://www.danielmoreno.com",
+    "image": "",
+    "templates": {
+        "author": "",
+        "docpath": ""
+    },
+    "dependencies": []
+}
