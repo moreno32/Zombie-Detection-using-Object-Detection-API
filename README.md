@@ -38,7 +38,9 @@ The Object Detection API and RetinaNet model were developed by the TensorFlow te
 
 ## 🔗 Links:
 Github repository - https://github.com/moreno32/Zombie-Detection-using-Object-Detection-API
+
 TensorFlow Object Detection API - https://github.com/tensorflow/models/tree/main/research/object_detection
+
 RetinaNet - https://github.com/fizyr/keras-retinanet
 
 ## 🙋‍♂️ Contact me:
