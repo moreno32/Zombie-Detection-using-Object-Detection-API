@@ -6,6 +6,9 @@ This project aims to develop a real-time zombie detection system using the Objec
 ![Category and Subcategory](https://img.shields.io/badge/CV%20Computer%20Vision-Clasification%20&%20Detection-blue)
 ![Category and Subcategory](https://img.shields.io/badge/Neuronal%20Networks-DCN%20Deep%20Convulutional%20Network-yellow)
 
+## 🖼️ Images of the Project:
+With the increasing popularity of zombies in popular culture, there is a growing interest in developing systems to detect them. This project aims to contribute to this field by developing a real-time zombies detection system that can be used for various applications such as video games, movies, and theme parks.
+
 ## 🎊 Motivation:
 With the increasing popularity of zombies in popular culture, there is a growing interest in developing systems to detect them. This project aims to contribute to this field by developing a real-time zombies detection system that can be used for various applications such as video games, movies, and theme parks.
 
@@ -37,11 +40,11 @@ The project will consist of the following stages.
 The Object Detection API and RetinaNet model were developed by the TensorFlow team. The project structure and implementation is inspired by the TensorFlow Object Detection API tutorial.
 
 ## 🔗 Links:
-Github repository - https://github.com/moreno32/Zombie-Detection-using-Object-Detection-API
+**Github repository** - https://github.com/moreno32/Zombie-Detection-using-Object-Detection-API
 
-TensorFlow Object Detection API - https://github.com/tensorflow/models/tree/main/research/object_detection
+**TensorFlow Object Detection API** - https://github.com/tensorflow/models/tree/main/research/object_detection
 
-RetinaNet - https://github.com/fizyr/keras-retinanet
+**RetinaNet** - https://github.com/fizyr/keras-retinanet
 
 ## 🙋‍♂️ Contact me:
 📨  danielmoreno3291@gmail.com  
