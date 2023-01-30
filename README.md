@@ -49,6 +49,6 @@ The Object Detection API and RetinaNet model were developed by the TensorFlow te
 ## 🙋‍♂️ Contact me:
 📨  danielmoreno3291@gmail.com  
 👨‍🏫  https://www.linkedin.com/in/dmoreno-ai    
-▶   https://www.youtube.com/channel/UCIpWi-0wDtgfSho6l5yKWGw
+▶   https://www.youtube.com/@dmoreno-ai
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/dmoreno_ai)
