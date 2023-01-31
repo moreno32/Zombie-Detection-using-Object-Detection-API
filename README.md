@@ -7,7 +7,7 @@ This project aims to develop a real-time zombie detection system using the Objec
 ![Category and Subcategory](https://img.shields.io/badge/Neuronal%20Networks-DCN%20Deep%20Convulutional%20Network-yellow)
 
 ## 🖼️ Images of the Project:
-With the increasing popularity of zombies in popular culture, there is a growing interest in developing systems to detect them. This project aims to contribute to this field by developing a real-time zombies detection system that can be used for various applications such as video games, movies, and theme parks.
+<img align="center" alt="jpg" src="https://raw.githubusercontent.com/moreno32/Zombie-Detection-using-Object-Detection-API/master/reports/figures/Zombie%20Detection%20using%20Object%20Detection%20API.jpg" width="700" height="526" /><br>
 
 ## 🎊 Motivation:
 With the increasing popularity of zombies in popular culture, there is a growing interest in developing systems to detect them. This project aims to contribute to this field by developing a real-time zombies detection system that can be used for various applications such as video games, movies, and theme parks.
